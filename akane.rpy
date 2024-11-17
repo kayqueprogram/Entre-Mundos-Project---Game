@@ -271,3 +271,39 @@ label akane:
                             "Irina-sensei me olha um tanto surpresa. Acho que normalmente ninguém se arriscaria a responder."
 
                             irs "Sim Mizushima. Esse mesmo. Você pode responder à pergunta feita? "
+
+                            "Olho para o lado e vejo Akane me observando. Provavelmente Yuno já deve ter passado para ela o que está acontecendo."
+
+                            s "S-sim, eu vou tentar, sensei... "
+
+                            s "Bem... Beatrice foi... digamos que uma figura simbólica no livro. Ela simbolizava... se eu não me engano, a graça divina e a salvação espiritual..."
+
+                            s "A personagem Beatrice, foi fruto de um amor platônico, ou talvez, não correspondido, devido as circunstâncias da época..."
+
+                            irs "E que circunstâncias seriam essas?"
+
+                            s "Casamento arranjado... por exemplo? "
+
+                            irs "“Muito bem Mizushima! Vejo que alguém aqui pode-se salvar, quando se trata de conhecimento literário... é uma obra que todos vocês já deveriam ter lido há muito tempo!"
+
+                            y "Professora..."
+
+                            irs "Diga, Yoshida"
+
+                            y "Akane quer destacar um ponto sobre este livro. "
+
+                            irs "Prossiga"
+
+                            "Akane gesticula freneticamente. Mal dando tempo para a coitada da Yuno respirar"
+
+                            ak "[...]"
+
+                            y "Akane diz que.... É interessante, como o livro destaca a ideia de punição divina... onde a alma da pessoa... vai ser punida ou recompensada por cada ação que teve em vida. "
+
+                            irs "Muito bem Tachibana! E Agraço seu auxílio Yoshida! Todos os que se pronunciaram terão mais 1 ponto em sua média final!"
+
+                            "E assim a aula se seguiu durante toda a manhã..."
+
+                            play sound "audio/Alarme da escola.ogg"
+
+                            "É chegado o final da aula, os alunos se levantam ansiosos, para irem almoçar. "
