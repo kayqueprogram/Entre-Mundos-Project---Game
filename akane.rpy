@@ -110,9 +110,9 @@ label akane:
             menu: 
                 "Sim, Claro!":
 
-                    "Quer dizer... é o normal a se fazer, não?"
+                    s "Quer dizer... é o normal a se fazer, não?"
                            
-                    "Deveria ser, mas nem todo mundo gosta de estar exposto aos olhares alheios"
+                    irs"Deveria ser, mas nem todo mundo gosta de estar exposto aos olhares alheios"
 
                     s "Eu sou uma dessas pessoas, mas..."
 
@@ -130,9 +130,15 @@ label akane:
 
                     "Irina sensei abre a porta e entra"
 
+                    scene bg school_room with fade
+
                     irs "Bom dia a todos! Consegui encontrar a ovelhinha perdida! "
 
+                    play sound "audio/people_laugh.ogg"
+
                     "Os alunos riem do trocadilho de Irina, enquanto estou parado na porta, hesitando na hora H."
+
+                    stop sound
 
                     "Sinto como se fosse um grande passo. Um momento decisivo de minha vida."
 
@@ -158,7 +164,11 @@ label akane:
 
                     "Percebo um movimento... seus cabelos negros se movimentando... é alguém familiar para mim..."
 
+                    show akane sorr at left, with dissolve
+
                     "É Akane! Que surpresa estarmos na mesma turma!"
+
+                    hide akane sorr with dissolve
 
                     irs "Seu nome é Shido Mizushima"
 
