@@ -317,3 +317,65 @@ label akane:
                             play sound "audio/Alarme da escola.ogg"
 
                             "É chegado o final da aula, os alunos se levantam ansiosos, para irem almoçar. "
+
+                            y "Ei Mizu, vamos?"
+
+                            s "Para onde?"
+
+                            "Akane demonstra impaciência e me empurra para fora da sala, Yuno parece estar se divertindo com a situação. "
+
+                            y "“Hahahah... não se lembra que nós íamos te mostrar a escola? Tem muita coisa para ver aqui"
+
+                            s "É que eu não achei que fosse agora"
+
+                            ak "[...]"
+
+                            y "Azar o seu, vamos!"
+
+                            ak "[...]"
+
+                            y "Veja Mizu! Este é o refeitório, provavelmente você já o viu de manhã."
+
+                            "Curiosamente, Kibou-en possuía um interior bem moderno, em contraste com seu exterior antiquado "
+
+                            "Principalmente o refeitório, suas janelas enormes, que dão para o pátio em direção ao portão principal "
+
+                            s "Sim, eu vi... ele é bem espaçoso, pra falar a verdade"
+
+                            ak "[...]"
+
+                            y "Sim, e se você quiser, pode sair e comer na lanchonete aqui perto"
+
+                            s "C-Como? Pode-se sair daqui?"
+
+                            ak "[...]"
+
+                            y "Sim, aqui não é uma prisão, diferente dos outros orfanatos. A partir de uma certa idade você já pode sair, desde que respeite os horários e não tenha nenhum problema que te atrapalhe"
+
+                            ak "[...]"
+
+                            y "Essa é a política do Kibou-en! "
+
+                            "Permaneço perplexo por alguns momentos.  "
+
+                            "Antes de vir para cá, o cenário que imaginei, foi completamente diferente..."
+
+                            "Talvez... eu estivesse seguindo algum tipo de estereótipo proposto na sociedade? "
+
+                            "Na qual lugares como este fossem a representação do inferno? "
+
+                            ak "[...]"
+
+                            y "Mizu?"
+
+                            "Yuno e Akane me fitam, por um instante. Acho que estou viajando por tempo demais."
+
+                            s "Para onde vamos agora?"
+
+                            y "Deixe-me ver.. "
+
+                            y "Você ainda não tem nenhum clube... certo? Que tal conhecer o clube de oratória? "
+
+                            s "Clube de oratória... parece interessante... você e Akane estão nele, não é mesmo?"
+
+                            "Yuno parece ter sido pega de surpresa. Toya e Kazuma me apresentaram alguns lugares desta escola, e o clube de oratória foi um deles. "
