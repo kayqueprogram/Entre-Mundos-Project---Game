@@ -379,3 +379,50 @@ label akane:
                             s "Clube de oratória... parece interessante... você e Akane estão nele, não é mesmo?"
 
                             "Yuno parece ter sido pega de surpresa. Toya e Kazuma me apresentaram alguns lugares desta escola, e o clube de oratória foi um deles. "
+
+                            y "Então você já sabia! Hahaha"
+
+                            s "De certa forma sim, mas você e Akane querem me arrastar para ele?"
+
+                            ak "[...]"
+
+                            "Akane gesticula freneticamente, mal dando tempo a Yuno, acompanhar seus movimentos "
+
+                            "Akane é Líder do Clube de Oratória, mesmo sendo muda, e isso de certa forma é incrível."
+
+                            "Toya, por mais que seja cego, aparentemente, nunca se deixou limitar por sua condição."
+
+                            "Então... qual era a minha justificativa?"
+
+                            y "Akane está dizendo que você deveria dar uma chance. Pode ser uma ótima experiência para você."
+
+                            s "Pode até ser.... eu vou dar uma passada"
+
+                            ak "[...]"
+
+                            y "Ótimo! Venha, vamos apresentar você ao resto do clube."
+
+                            "Akane me toma pelas mãos e me conduz animadamente pelos corredores "
+
+                            s "Mas... eu nunca disse que me juntaria ao clube..."
+
+                            "Já é tarde demais, Yuno está tão animada que já não consegue me ouvir"
+
+                            "Continuamos a caminhar pelos corredores, passando por várias salas e grupos de estudantes, até chegarmos à porta do Clube de Oratória. "
+
+                            "Ao entrar, sou recebido por uma sala cheia de estudantes conversando animadamente. No centro da sala, uma cadeira está vazia, indicando que o presidente do clube ainda não chegou. "
+
+                            "Pessoal, esse é Shido, nosso novo amigo. Ele está interessado em conhecer o clube."
+
+                            "Os membros do clube me olham com curiosidade e começam a se aproximar para se apresentarem. A energia na sala é contagiante, e não consigo evitar um sorriso. "
+
+                            mc "Bem-vindo, Shido! Espero que goste daqui."
+
+                            mc "Apesar de sermos um pouco brincalhões, não há nada que não possamos fazer se nos determinarmos"
+
+                            s "Obrigado, pessoal. É um prazer conhecer todos vocês."
+
+                            "Enquanto conversamos, percebo que Akane está ao meu lado, observando silenciosamente. "
+
+                            "Ela me dá um sorriso encorajador, e eu sinto um calor reconfortante se espalhar por mim. Talvez, só talvez, este lugar não seja tão ruim assim."
+
