@@ -18,6 +18,9 @@ image akane confused = "sprites/Akane/sprite_akane03.png"
 image akane rage = "sprites/Akane/sprite_akane04.png"
 
 
+## Yuno
+image yuno normal = "sprites/Yuno/sprite_yuno01.png"
+
 ## Toya
 image toya confused = "sprites/Toya/sprite_toya01.png"
 image toya confused2 = "sprites/Toya/sprite_toya03.png"

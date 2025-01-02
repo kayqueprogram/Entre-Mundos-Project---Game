@@ -105,13 +105,16 @@ label akane:
             ir "Meu nome é Irina, sou a professora da classe 3-A, no caso, a {b}sua classe senhor{/b}. "
 
             "Sinto uma ponta de ironia em sua fala, como eu saberia que essa é minha classe? "
-            
+
             hide irina serious
             show irina serious2
 
             s "Ah, sim, desculpe sensei. Ninguém soube me informar onde era minha sala"
 
             s "E ninguém da coordenação me falou nada, desde que cheguei aqui"
+
+            hide irina serious2
+            show irina normal
 
             irs "Esse orfanato... está cada vez pior... nesse caso, seja bem-vindo! "
 
@@ -121,12 +124,22 @@ label akane:
                 "Sim, Claro!":
 
                     s "Quer dizer... é o normal a se fazer, não?"
+
+                    hide irina normal
+                    show irina serious
                            
                     irs"Deveria ser, mas nem todo mundo gosta de estar exposto aos olhares alheios"
 
+                    hide irina serious
+                    show irina serious2
+
                     s "Eu sou uma dessas pessoas, mas..."
 
+
                     "Eu devo criar minha primeira impressão, e ela deve ser boa o suficiente, para que eu consiga criar novas conexões"
+
+                    hide irina serious2
+                    show irina normal
 
                     irs "Vamos ver então"
 
@@ -142,6 +155,8 @@ label akane:
 
                     scene bg school_room with fade
 
+                    show irina normal with dissolve
+
                     irs "Bom dia a todos! Consegui encontrar a ovelhinha perdida! "
 
                     play sound "audio/people_laugh.ogg"
@@ -155,6 +170,8 @@ label akane:
                     "Se for parar para pensar, é mesmo"
 
                     "Se eu falhar na apresentação, provavelmente ninguém vai querer se aproximar de mim."
+
+                    hide irina normal with dissolve
 
                     "Entro na sala de cabeça baixa, para não ter que dar de cara com olhares curiosos."
                            
@@ -196,13 +213,22 @@ label akane:
 
                     "Vejo meus novos colegas cochichando entre si... bem, poderia ter sido pior."
 
+                    show irina serious with dissolve
+
                     "A professora se vira para mim, um tanto desinteressada"
 
                     irs "Não temos muitos lugares livres, mas temos o suficiente para que possa escolher onde vai se sentar "
 
+                    hide irina serious with dissolve
+
                     "Irina-sensei ri de sua fala irônica e eu me volto para os únicos lugares disponíveis na sala"
+                    
+                    show akane confused with dissolve
 
                     "Um é próximo de Akane."
+
+                    hide akane confused with dissolve
+                    
 
                     "E o outro, é próximo de uma linda menina de cabelo rosa, que parecia estar interagindo com Akane."
 
