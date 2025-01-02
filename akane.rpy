@@ -81,6 +81,10 @@ label akane:
 
             "Preciso encontrar logo a minha..."
 
+            show irina normal with hpunch
+
+            play sound "audio/hard-slap-46388.mp3"
+
             s "Ugh!"
 
             s "D-desculpa! Não foi minha intenç-"
@@ -93,11 +97,17 @@ label akane:
 
             s "Mas quem é voc-"
 
+            hide irina normal
+            show irina serious
+
             ds "Ah, verdade ainda não me apresentei"
 
             ir "Meu nome é Irina, sou a professora da classe 3-A, no caso, a {b}sua classe senhor{/b}. "
 
             "Sinto uma ponta de ironia em sua fala, como eu saberia que essa é minha classe? "
+            
+            hide irina serious
+            show irina serious2
 
             s "Ah, sim, desculpe sensei. Ninguém soube me informar onde era minha sala"
 

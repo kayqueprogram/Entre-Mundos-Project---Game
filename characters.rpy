@@ -22,3 +22,8 @@ image akane rage = "sprites/Akane/sprite_akane04.png"
 image toya confused = "sprites/Toya/sprite_toya01.png"
 image toya confused2 = "sprites/Toya/sprite_toya03.png"
 image toya interested = "sprites/Toya/sprite_toya02.png"
+
+## Irina
+image irina normal = "sprites/Irina/sprite_irina.png"
+image irina serious = "sprites/Irina/sprite_irina02.png"
+image irina serious2 = "sprites/Irina/sprite_irina03.png"
