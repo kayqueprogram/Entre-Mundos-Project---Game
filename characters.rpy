@@ -32,3 +32,7 @@ image toya interested = "sprites/Toya/sprite_toya02.png"
 image irina normal = "sprites/Irina/sprite_irina.png"
 image irina serious = "sprites/Irina/sprite_irina02.png"
 image irina serious2 = "sprites/Irina/sprite_irina03.png"
+
+## Alunos
+
+image aluno normal = "sprites/Alunos/aluno 1.png"

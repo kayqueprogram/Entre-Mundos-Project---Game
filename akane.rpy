@@ -454,19 +454,33 @@ label akane:
 
                             s "Sim, eu vi... ele é bem espaçoso, pra falar a verdade"
 
+                            show akane cnvs with dissolve
+
                             ak "(...)"
+
+                            hide akane cnvs with dissolve
+                            show yuno normal with dissolve
 
                             y "Sim, e se você quiser, pode sair e comer na lanchonete aqui perto"
 
+                            hide yuno normal with dissolve
+
                             s "C-Como? Pode-se sair daqui?"
 
-                            ak "[...]"
+                            show akane cnvs at left with dissolve 
+
+                            ak "(...)"
+
+                            show yuno sorr with dissolve
 
                             y "Sim, aqui não é uma prisão, diferente dos outros orfanatos. A partir de uma certa idade você já pode sair, desde que respeite os horários e não tenha nenhum problema que te atrapalhe"
 
-                            ak "[...]"
+                            ak "(...)"
 
                             y "Essa é a política do Kibou-en! "
+
+                            hide akane cnvs with dissolve
+                            hide yuno sorr with dissolve
 
                             "Permaneço perplexo por alguns momentos.  "
 
@@ -476,13 +490,23 @@ label akane:
 
                             "Na qual lugares como este fossem a representação do inferno? "
 
-                            ak "[...]"
+                            show akane confused with dissolve
+
+                            ak "(...)"
+
+                            hide akane confused with dissolve
+                            show yuno normal with dissolve
 
                             y "Mizu?"
+                            show akane confused at left with dissolve
 
                             "Yuno e Akane me fitam, por um instante. Acho que estou viajando por tempo demais."
 
                             s "Para onde vamos agora?"
+
+                            hide akane confused with dissolve
+
+                            
 
                             y "Deixe-me ver.. "
 
@@ -492,11 +516,16 @@ label akane:
 
                             "Yuno parece ter sido pega de surpresa. Toya e Kazuma me apresentaram alguns lugares desta escola, e o clube de oratória foi um deles. "
 
+                            hide yuno normal
+                            show yuno sorr
+
                             y "Então você já sabia! Hahaha"
 
                             s "De certa forma sim, mas você e Akane querem me arrastar para ele?"
 
-                            ak "[...]"
+                            show akane cnvs at left with dissolve
+
+                            ak "(...)"
 
                             "Akane gesticula freneticamente, mal dando tempo a Yuno, acompanhar seus movimentos "
 
@@ -506,13 +535,17 @@ label akane:
 
                             "Então... qual era a minha justificativa?"
 
+                            hide akane cnvs with dissolve
+                            hide yuno sorr
+                            show yuno normal
+
                             y "Akane está dizendo que você deveria dar uma chance. Pode ser uma ótima experiência para você."
 
                             s "Pode até ser.... eu vou dar uma passada"
 
-                            ak "[...]"
-
                             y "Ótimo! Venha, vamos apresentar você ao resto do clube."
+
+                            hide yuno normal with dissolve
 
                             "Akane me toma pelas mãos e me conduz animadamente pelos corredores "
 
@@ -520,19 +553,31 @@ label akane:
 
                             "Já é tarde demais, Yuno está tão animada que já não consegue me ouvir"
 
+                            scene bg corredor with fade
+
                             "Continuamos a caminhar pelos corredores, passando por várias salas e grupos de estudantes, até chegarmos à porta do Clube de Oratória. "
+
+                            scene bg clube with dissolve
 
                             "Ao entrar, sou recebido por uma sala cheia de estudantes conversando animadamente. No centro da sala, uma cadeira está vazia, indicando que o presidente do clube ainda não chegou. "
 
-                            "Pessoal, esse é Shido, nosso novo amigo. Ele está interessado em conhecer o clube."
+                            show yuno sorr with dissolve
+
+                            y "Pessoal, esse é Shido, nosso novo amigo. Ele está interessado em conhecer o clube."
+                            hide yuno sorr with dissolve
 
                             "Os membros do clube me olham com curiosidade e começam a se aproximar para se apresentarem. A energia na sala é contagiante, e não consigo evitar um sorriso. "
+
+                            show aluno normal at left with dissolve
 
                             mc "Bem-vindo, Shido! Espero que goste daqui."
 
                             mc "Apesar de sermos um pouco brincalhões, não há nada que não possamos fazer se nos determinarmos"
+                            hide aluno normal with dissolve
 
                             s "Obrigado, pessoal. É um prazer conhecer todos vocês."
+
+                            show akane sorr at left with dissolve
 
                             "Enquanto conversamos, percebo que Akane está ao meu lado, observando silenciosamente. "
 
