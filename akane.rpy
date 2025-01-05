@@ -1,3 +1,4 @@
+
 label akane:
 
     hide toya confused
@@ -228,15 +229,25 @@ label akane:
                     "Um é próximo de Akane."
 
                     hide akane confused with dissolve
+
+                    show yuno normal with dissolve
                     
 
                     "E o outro, é próximo de uma linda menina de cabelo rosa, que parecia estar interagindo com Akane."
 
+                    hide yuno normal
+
                     "Decido me sentar ao lado de Akane, afinal, eu já a conheço."
+
+                    show akane sorr with dissolve
 
                     "Akane me cumprimenta com um sorriso... e que sorriso!"
 
+                    hide akane sorr with dissolve
+
                     "Logo após, ela se volta para a menina ao seu lado e começam a se comunicar usando a linguagem de sinais."
+
+                    show yuno sorr with dissolve
 
                     y "É um prazer te conhecer Mizu! "
 
@@ -260,11 +271,11 @@ label akane:
 
                     y "Ela domina a leitura labial até certo ponto, e sim, ela conseguiu entender"
 
-                    ak "[...]"
+                    ak `(...)`
 
                     y "Queremos que se sinta bem-vindo entre nós!"
 
-                    ak "[...]"
+                    ak "(...)"
 
                     y "Não repara na personalidade da Irina-Sensei, ela pode ter um gênio difícil ás vezes"
 
@@ -276,17 +287,23 @@ label akane:
 
                     y "Akane quer que você saiba que ela é a representante de classe, e que se precisar de qualquer coisa, pode vir até ela. "
 
-                    ak "[...]"
+                    ak "(...)"
 
                     y "Podemos dar uma volta pela escola, caso não a tenha conhecido ainda. "
 
                     s "Bem... é meu primeiro dia.... e eu aceitaria sim."
 
+                    hide yuno sorr with dissolve
+
                     "Não consigo evitar um sorriso. Parece que fiz alguns amigos."
 
                     "Irina-sensei passa ao meu lado e nos dirige um sorriso um tanto pretensioso"
 
+                    show irina normal with dissolve
+
                     irs "Parece que você já se enturmou, não é mesmo? "
+
+                    show yuno normal at left with dissolve 
 
                     y "A Akane disse que vai leva-lo para conhecer a escola, assim que a aula terminar. "
 
@@ -294,13 +311,26 @@ label akane:
 
                     irs "Agora, vamos seguir com a aula pessoal! Silêncio. "
 
-                    ak "[...]"
+                    hide irina normal with dissolve
+
+                    show akane cnvs with dissolve
+
+                    ak "(...)"
 
                     y "Você vai gostar daqui, embora seja um orfanato, não é um lugar ruim."
 
+                    hide akane cnvs with dissolve
+                    hide yuno normal with dissolve
+
+                    show irina normal with dissolve
+
                     irs "Pessoaaal... a educação foi feita para ser usada, e não para ser guardada em suas mochilas, Silêncio! "
 
+                    hide irina normal with dissolve
+
                     "Sinto que situações assim são comuns por aqui. Devo me acostumar a isso também."
+
+                    show irina normal with dissolve
 
                     "Voltando ao tema, alguém poderia me dizer qual a importância de Beatrice para a obra ‘Do Inferno ao Paraíso’? "
 
@@ -314,11 +344,20 @@ label akane:
 
                             s "Professora... é aquele livro escrito por Davi Albuquerque??"
 
+                            hide irina normal
+                            show irina serious
+
                             "Irina-sensei me olha um tanto surpresa. Acho que normalmente ninguém se arriscaria a responder."
 
                             irs "Sim Mizushima. Esse mesmo. Você pode responder à pergunta feita? "
 
+                            hide irina serious
+                            show akane cnvs with dissolve
+
                             "Olho para o lado e vejo Akane me observando. Provavelmente Yuno já deve ter passado para ela o que está acontecendo."
+
+                            hide akane cnvs with dissolve
+                            show irina serious with dissolve
 
                             s "S-sim, eu vou tentar, sensei... "
 
@@ -332,21 +371,43 @@ label akane:
 
                             irs "“Muito bem Mizushima! Vejo que alguém aqui pode-se salvar, quando se trata de conhecimento literário... é uma obra que todos vocês já deveriam ter lido há muito tempo!"
 
+                            hide irina serious with dissolve
+                            show yuno normal with dissolve
+
                             y "Professora..."
 
+                            hide yuno normal with dissolve
+                            show irina serious with dissolve
+
                             irs "Diga, Yoshida"
+
+                            show yuno normal at left with dissolve
 
                             y "Akane quer destacar um ponto sobre este livro. "
 
                             irs "Prossiga"
 
+                            hide irina serious with dissolve
+                            hide yuno normal with dissolve
+                            show akane sorr with dissolve
+
                             "Akane gesticula freneticamente. Mal dando tempo para a coitada da Yuno respirar"
 
-                            ak "[...]"
+                            ak "(...)"
+
+                            hide akane sorr with dissolve
+
+                            show yuno sorr with dissolve
 
                             y "Akane diz que.... É interessante, como o livro destaca a ideia de punição divina... onde a alma da pessoa... vai ser punida ou recompensada por cada ação que teve em vida. "
 
+                            hide yuno sorr with dissolve
+
+                            show irina serious2 with dissolve
+
                             irs "Muito bem Tachibana! E Agraço seu auxílio Yoshida! Todos os que se pronunciaram terão mais 1 ponto em sua média final!"
+
+                            hide irina serious2 with dissolve
 
                             "E assim a aula se seguiu durante toda a manhã..."
 
@@ -354,23 +415,38 @@ label akane:
 
                             "É chegado o final da aula, os alunos se levantam ansiosos, para irem almoçar. "
 
+                            show yuno sorr with hpunch
+
                             y "Ei Mizu, vamos?"
 
                             s "Para onde?"
 
+                            hide yuno sorr with dissolve
+                            show akane rage with hpunch
+
                             "Akane demonstra impaciência e me empurra para fora da sala, Yuno parece estar se divertindo com a situação. "
+
+                            hide akane rage with dissolve
+
 
                             y "“Hahahah... não se lembra que nós íamos te mostrar a escola? Tem muita coisa para ver aqui"
 
+                            scene bg cafeteria with fade
+
                             s "É que eu não achei que fosse agora"
 
-                            ak "[...]"
+                            show akane cnvs with dissolve
 
-                            y "Azar o seu, vamos!"
+                            ak "(...)"
 
-                            ak "[...]"
+                            hide akane cnvs with dissolve
+                            show yuno sorr with dissolve
+
+                            y "Azar o seu!"
 
                             y "Veja Mizu! Este é o refeitório, provavelmente você já o viu de manhã."
+
+                            hide yuno sorr with dissolve
 
                             "Curiosamente, Kibou-en possuía um interior bem moderno, em contraste com seu exterior antiquado "
 
@@ -378,7 +454,7 @@ label akane:
 
                             s "Sim, eu vi... ele é bem espaçoso, pra falar a verdade"
 
-                            ak "[...]"
+                            ak "(...)"
 
                             y "Sim, e se você quiser, pode sair e comer na lanchonete aqui perto"
 
@@ -461,4 +537,12 @@ label akane:
                             "Enquanto conversamos, percebo que Akane está ao meu lado, observando silenciosamente. "
 
                             "Ela me dá um sorriso encorajador, e eu sinto um calor reconfortante se espalhar por mim. Talvez, só talvez, este lugar não seja tão ruim assim."
+
+                            scene bg months with dissolve
+
+
+
+                            
+
+
 
