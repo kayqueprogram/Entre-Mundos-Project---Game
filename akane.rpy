@@ -585,6 +585,19 @@ label akane:
 
                             scene bg months with dissolve
 
+                            scene bg school_room with dissolve
+
+                            show irina normal with dissolve
+
+
+                            s "Irina-sensei, é verdade o que dizem no Clube de Oratória? O orfanato oferece aulas de linguagem de sinais?"
+
+                            irs "Sim, é verdade Mizushima. Porquê? Você tem interesse?"
+
+
+
+                            
+
 
 
                             
