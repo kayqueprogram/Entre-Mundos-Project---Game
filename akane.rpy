@@ -594,6 +594,149 @@ label akane:
 
                             irs "Sim, é verdade Mizushima. Porquê? Você tem interesse?"
 
+                            s "Meio que sim"
+
+                            irs "Meio que sim? Isso não existe. Desembucha logo menino, qual o motivo desse interesse?"
+
+                            s "É que assim..."
+
+                            irs "Hum..."
+
+                            s "Eu, Akane e Yuno estamos sempre juntos. Akane e eu conversamos bastante quando Yuno está por perto para traduzir"
+
+                            s "Quando ela não está, precisamos usar um caderno para nos comunicar, e isso pode ser um pouco frustrante às vezes. Entende?"
+
+                            irs "Entendo... e ás vezes você deseja se aprofundar nas conversas com Akane, mas se sente retraído por precisar de Yuno?"
+
+                            "Sinto meu rosto queimar de vergonha. Coloco minhas mãos sobre ele, esperando que esse simples gesto disfarce meu constrangimento"
+
+                            "É claro que não irá"
+
+                            "Irina-sensei possui a habilidade de saber exatamente o que seus alunos estão pensando, apenas por olhar para eles"
+
+                            irs "Você é mais emocional do que eu pensei"
+
+                            irs "Vai me dizer que está tendo uma queda por ela?"
+
+                            s "N-não tem nada a ver com isso, sensei!"
+
+                            "Irina-sensei dá uma leve gargalhada, aparentemente ela está se divertindo com a situação"
+
+                            irs "Quer conversar sobre?"
+
+                            s "Eu..."
+                            
+                            irs "Não há mal nenhum em desabafar de vez em quando... e você não me parece bem... venha, sente-se aqui. Vamos conversar."
+
+                            
+                            "Sento-me em frente a ela, perplexo. Como ela sabia que eu estava mal? Quer dizer, eu não contei a ninguém e ainda assim..."
+
+                            
+                            irs "O que tem acontecido, Shido?"
+                            
+                            s "Eu..."
+                            
+                            s "Respiro fundo e desvio meu olhar... Será que ela vai levar isso a sério?"
+
+                            
+                            s "Não é nada demais sensei, é besteira."
+
+                            
+                            irs "Por mais que não seja nada em sua perspectiva, eu sei que algo está acontecendo, e diferente do que pensa, eu me importo com você."
+
+                            
+                            "Nunca imaginei que palavras tão simples seriam capazes de fazer minha garganta se fechar..."
+
+                            
+                            irs "Isso... não é somente sobre Akane, não é?"
+
+                            
+                            "Curiosamente reparo que Irina-sensei age mais informalmente quando se trata de um assunto mais pessoal. De certa forma, me sinto agradecido por isso."
+
+                            
+                            s "Não..."
+                            
+                            s "Eu estou aflito por algo, mas não é nada demais."
+                            
+                            s "Eu sinto que... de certa forma, não consigo lidar muito bem com as 'deficiências' de meus colegas."
+
+                            
+                            s "A-alguns dias atrás... vi Kazuma chorando escondido... ele tinha se envolvido em uma discussão e disseram a ele que os pais dele o abandonaram porque ele era um inútil."
+                            
+                            s "Disseram a ele que ele não tinha sequer a capacidade de orgulha-los."
+
+                            
+                            s "Na mesma semana... ouvi Toya conversando sozinho... ele provavelmente não notou minha presença... mas ele falava sobre... tudo o que ele queria fazer... todo o tipo de coisa que ele sonhava em fazer mas não podia por sua limitação..."
+
+                            
+                            s  "Ouvi uma menina no pátio falando sobre como foi abusada por seu pai..."
+                            
+                            s  "Por que sensei? Porque pessoas que deveriam nos dar amor, carinho e exemplo nos dão rejeição, ódio e mágoa?"
+
+                            
+                            irs "A vida é complexa, Shido. Nem sempre as pessoas que deveriam nos proteger conseguem fazê-lo."
+                            
+                            irs "Muitas vezes, elas próprias carregam suas próprias dores e acabam descontando isso nos outros. Não estou dizendo que é justo ou certo, mas é uma realidade que muitos enfrentam."
+                            
+                            irs "Cada um lida com suas experiências de maneiras diferentes. O importante é encontrar maneiras saudáveis de enfrentar essas dificuldades e buscar apoio quando necessário."
+
+                            
+                            s "Eu só... quero poder ajudar. Fazer alguma coisa por eles. Mas não sei por onde começar."
+
+                            
+                            irs "Seu desejo de ajudar já é um bom começo. Muitas vezes, apenas estar presente e ouvir pode fazer uma grande diferença. Ofereça seu apoio, e mais importante: mostre que eles não estão sozinhos."
+                            
+                            irs "E não se esqueça de cuidar de si mesmo também, Shido. Para ajudar os outros, você também precisa estar bem."
+
+                            
+                            s  "Talvez, ao compartilhar um pouco do meu próprio fardo, eu possa aprender a aliviar o dos outros."
+
+                            
+                            s "Sensei..."
+                            
+                            irs "Sim?.."
+
+                            
+                            s "Você está certa... eu amo aquela garota."
+
+                            
+                            "Irina-sensei parece um pouco surpresa em relação à minha coragem, mas logo após ri. Deve estar pensando em quão bobo estou sendo falando sobre amor... uma palavra tão simples mas ao mesmo tempo, com significado tão complexo."
+
+                            irs "Sabe Shido..."
+                            
+                            s "Sim?.."
+
+                            
+                            irs "Gostei da sua resposta... mas eu gostaria de acrescentar uma pitada de minha experiência..."
+                            
+                            irs "O amor... é um sentimento complexo demais para que seja explicado em uma pequena fala."
+                            
+                            irs "O amor é benigno e não sente ciúmes; o amor não é orgulhoso e não recente do mal: o amor perdoa, seja qual for o erro. O verdadeiro amor está além da distância, do toque, do cheiro."
+                            
+                            irs "Não se busca razão para amar, não se ama porque alguém tem qualidades interessantes ao se ver ou porque é bonito. O verdadeiro amor é simplesmente amar, coisa que nós seres humanos demonstramos uma imensa dificuldade, pois o amor é algo que não pode ser explicado com palavras, apenas com gestos, e isso não basta para responder nossos questionamentos em relação a ele."
+                            
+                            irs "O amor é muito mais do que você pode imaginar, então se prepare pequeno Shido..."
+
+                            
+                            "Suas palavras ecoam na minha mente, fazendo-me refletir sobre o que realmente sinto. Será que estou pronto para entender algo tão complexo como o amor?"
+
+                            
+                            s "Eu... acho que entendo o que está dizendo, sensei. Talvez ainda esteja aprendendo a amar de verdade."
+
+                            
+                            irs "E esse é o primeiro passo, Shido. Aprender. Nunca paramos de aprender, mesmo quando pensamos que já sabemos o suficiente."
+
+                            
+                            "Essas palavras me confortam, pois percebo que não preciso ter todas as respostas agora. O que importa é estar disposto a descobrir."
+
+                            
+                            s "Obrigado, sensei. Vou tentar lembrar disso."
+
+                            
+                            irs "Não precisa agradecer. Apenas viva suas experiências e aprenda com elas. O amor pode ser a jornada de uma vida inteira."
+
+
+
 
 
                             
