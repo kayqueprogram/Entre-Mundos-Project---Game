@@ -641,6 +641,9 @@ label akane:
                             
                             s "Não é nada demais sensei, é besteira."
 
+                            hide irina normal
+                            show irina serious
+
                             
                             irs "Por mais que não seja nada em sua perspectiva, eu sei que algo está acontecendo, e diferente do que pensa, eu me importo com você."
 
@@ -662,6 +665,8 @@ label akane:
 
                             
                             s "A-alguns dias atrás... vi Kazuma chorando escondido... ele tinha se envolvido em uma discussão e disseram a ele que os pais dele o abandonaram porque ele era um inútil."
+
+                           
                             
                             s "Disseram a ele que ele não tinha sequer a capacidade de orgulha-los."
 
@@ -673,6 +678,10 @@ label akane:
                             
                             s  "Por que sensei? Porque pessoas que deveriam nos dar amor, carinho e exemplo nos dão rejeição, ódio e mágoa?"
 
+
+                            hide irina serious
+                            show irina serious2
+
                             
                             irs "A vida é complexa, Shido. Nem sempre as pessoas que deveriam nos proteger conseguem fazê-lo."
                             
@@ -680,15 +689,24 @@ label akane:
                             
                             irs "Cada um lida com suas experiências de maneiras diferentes. O importante é encontrar maneiras saudáveis de enfrentar essas dificuldades e buscar apoio quando necessário."
 
+                            hide irina serious2
+                            show irina serious
+
                             
                             s "Eu só... quero poder ajudar. Fazer alguma coisa por eles. Mas não sei por onde começar."
+
+                            hide irina serious
+
+                            show irina serious2
 
                             
                             irs "Seu desejo de ajudar já é um bom começo. Muitas vezes, apenas estar presente e ouvir pode fazer uma grande diferença. Ofereça seu apoio, e mais importante: mostre que eles não estão sozinhos."
                             
                             irs "E não se esqueça de cuidar de si mesmo também, Shido. Para ajudar os outros, você também precisa estar bem."
 
-                            
+                            hide irina serious2
+                            show irina serious
+
                             s  "Talvez, ao compartilhar um pouco do meu próprio fardo, eu possa aprender a aliviar o dos outros."
 
                             
@@ -702,10 +720,13 @@ label akane:
                             
                             "Irina-sensei parece um pouco surpresa em relação à minha coragem, mas logo após ri. Deve estar pensando em quão bobo estou sendo falando sobre amor... uma palavra tão simples mas ao mesmo tempo, com significado tão complexo."
 
+
                             irs "Sabe Shido..."
                             
                             s "Sim?.."
-
+                            
+                            hide irina serious
+                            show irina serious2
                             
                             irs "Gostei da sua resposta... mas eu gostaria de acrescentar uma pitada de minha experiência..."
                             
@@ -717,7 +738,9 @@ label akane:
                             
                             irs "O amor é muito mais do que você pode imaginar, então se prepare pequeno Shido..."
 
-                            
+                            hide irina serious2
+                            show irina serious
+
                             "Suas palavras ecoam na minha mente, fazendo-me refletir sobre o que realmente sinto. Será que estou pronto para entender algo tão complexo como o amor?"
 
                             
@@ -732,8 +755,98 @@ label akane:
                             
                             s "Obrigado, sensei. Vou tentar lembrar disso."
 
+                            hide irina serious
+                            show irina serious2
                             
                             irs "Não precisa agradecer. Apenas viva suas experiências e aprenda com elas. O amor pode ser a jornada de uma vida inteira."
+
+                            scene bg jardim_orfanato with dissolve
+
+                            show akane confused with dissolve
+             
+                            s "Olho para Akane, e me dou conta do quanto ela significa para mim. Talvez eu ainda não compreenda completamente o amor, mas sei que ela é uma parte importante da minha vida."
+                            
+                            ak "..."
+
+                            hide akane confused with dissolve
+                            show yuno normal with dissolve
+                            
+                            y "Shido! Akane estava perguntando se você quer ir à biblioteca com a gente. Tem uma exposição de arte que parece interessante."
+                            
+                            s "Claro, eu adoraria!"
+                            
+                            "À medida que nos dirigimos à biblioteca, sinto que cada momento que passo com elas é uma oportunidade de aprender mais sobre mim mesmo e sobre o que significa amar."
+
+                            
+                            scene biblioteca with dissolve
+                            
+                            "À biblioteca está silenciosa, exceto pelo som suave das páginas virando. A exposição de arte é uma coleção de obras de artistas locais, cheias de cor e emoção."
+
+                            
+                            s "Enquanto caminhamos pela exposição, noto a expressão de encantamento no rosto de Akane. Sua paixão pela arte é contagiante, e eu me pego admirando não apenas as obras, mas também a maneira como ela as observa."
+                            
+                            y "Akane diz que esta pintura é a favorita dela. Ela gosta da forma como as cores se misturam e criam uma sensação de movimento."
+                            
+                            s "É realmente incrível. Acho que entendo por que ela gosta tanto."
+                            
+                            s "Observar Akane é como ver a arte em movimento. Ela me inspira a ver o mundo de maneiras que nunca imaginei."
+                            
+                            ak "..."
+                            
+                            y "Akane está perguntando se você já pensou em se expressar através da arte, Shido."
+                            
+                            s "Eu nunca fui muito bom com pincéis, mas acho que, de certa forma, estou aprendendo a expressar meus sentimentos de outras maneiras."
+                            
+                            s "Talvez essa seja a beleza do amor. Não importa como você o expressa, contanto que seja genuíno."
+
+                            
+                            scene exterior_por_do_sol
+                            
+                            "O sol está se pondo, pintando o céu com tons de laranja e rosa. Shido, Akane e Yuno estão sentados em um banco, admirando a vista."
+
+                            
+                            s "O amor é mais do que palavras ou gestos; é a presença silenciosa daqueles que importam. Enquanto estivermos                          
+                            juntos, sei que vou descobrir mais sobre o que isso realmente significa."
+                            
+                            s "Obrigado, Akane, Yuno. Por tudo. Eu sou realmente grato por ter vocês na minha vida."
+                            
+                            y "Estamos sempre aqui, Shido. Somos amigos, afinal de contas."
+                            
+                            ak "..."
+                            
+                            y "Akane diz que também é grata por ter você por perto."
+                            
+                            "E assim, enquanto o sol se põe, percebo que este é apenas o começo de uma jornada que estou ansioso para continuar."
+
+                            
+                            scene colegio
+                            
+                            a "Vocês souberam? Alguém fugiu do hospício, aquele que fica a 2 quadras daqui."
+                            
+                            al "Sério? Que perigo! Mas já conseguiram o encontrar?"
+                            
+                            a "Ainda não, mas espero que o peguem antes de chegar aqui. Ele está atacando pessoas inocentes que passam por ele."
+                            
+                            al "Por Deus! Não quero nem imaginar o que poderia acontecer se ele chegasse aqui... seria um desastre."
+
+                            
+                            "Os internos do orfanato têm mostrado muita apreensão nos últimos dias. Todos estão com medo da possibilidade do fugitivo invadir o pacato orfanato. Não vou mentir, as notícias sobre ele são preocupantes. Uma pessoa desprovida de sanidade mental vagando por aí e atacando pessoas... Realmente é algo com que se preocupar."
+
+                            
+                            "Akane, ao meu lado, me encara com um olhar inquisitivo. É natural que ela esteja curiosa para saber sobre o que os outros estão falando."
+                            
+                            "Como hoje Yuno não está conosco, trouxe meu caderno para nos auxiliar. Ela o pega, para escrever o que provavelmente será uma pergunta."
+                            
+                            ak "Por que todos estão tão inquietos?... é sobre... aquele assunto?"
+                            
+                            s "Presumo que sim, Akane. É o que mais tem se falado por esses dias. Todos estão preocupados com a possibilidade dele invadir o orfanato."
+                            
+                            ak "Mas... existe uma real possibilidade disso acontecer, não é? Afinal, o hospício é a apenas duas quadras daqui..."
+                            
+                            s "E ele foi visto na rua de trás, atacando uma pessoa, mas ele sempre foge e não conseguem encontra-lo."
+                            
+                            ak "Então a preocupação não é sem motivo. Apesar de estarmos seguros atrás deste muro que nos..."
+
 
 
 

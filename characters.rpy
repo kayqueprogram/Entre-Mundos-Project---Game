@@ -9,6 +9,8 @@ define ir = Character("Irina")
 define irs = Character("Irina Sensei")
 define y = Character("Yuno")
 define mc = Character("Membro do Clube")
+define a = Character("Aluno")
+define al = Character("Aluna")
 
 
 ## Akane
