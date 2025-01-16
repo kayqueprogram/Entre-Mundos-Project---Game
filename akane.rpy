@@ -819,33 +819,14 @@ label akane:
                             "E assim, enquanto o sol se põe, percebo que este é apenas o começo de uma jornada que estou ansioso para continuar."
 
                             
-                            scene colegio
-                            
-                            a "Vocês souberam? Alguém fugiu do hospício, aquele que fica a 2 quadras daqui."
-                            
-                            al "Sério? Que perigo! Mas já conseguiram o encontrar?"
-                            
-                            a "Ainda não, mas espero que o peguem antes de chegar aqui. Ele está atacando pessoas inocentes que passam por ele."
-                            
-                            al "Por Deus! Não quero nem imaginar o que poderia acontecer se ele chegasse aqui... seria um desastre."
+                            scene colegio with dissolve
+
+
+                            $ renpy.movie_cutscene("video/pt1.webm")
+
 
                             
-                            "Os internos do orfanato têm mostrado muita apreensão nos últimos dias. Todos estão com medo da possibilidade do fugitivo invadir o pacato orfanato. Não vou mentir, as notícias sobre ele são preocupantes. Uma pessoa desprovida de sanidade mental vagando por aí e atacando pessoas... Realmente é algo com que se preocupar."
-
                             
-                            "Akane, ao meu lado, me encara com um olhar inquisitivo. É natural que ela esteja curiosa para saber sobre o que os outros estão falando."
-                            
-                            "Como hoje Yuno não está conosco, trouxe meu caderno para nos auxiliar. Ela o pega, para escrever o que provavelmente será uma pergunta."
-                            
-                            ak "Por que todos estão tão inquietos?... é sobre... aquele assunto?"
-                            
-                            s "Presumo que sim, Akane. É o que mais tem se falado por esses dias. Todos estão preocupados com a possibilidade dele invadir o orfanato."
-                            
-                            ak "Mas... existe uma real possibilidade disso acontecer, não é? Afinal, o hospício é a apenas duas quadras daqui..."
-                            
-                            s "E ele foi visto na rua de trás, atacando uma pessoa, mas ele sempre foge e não conseguem encontra-lo."
-                            
-                            ak "Então a preocupação não é sem motivo. Apesar de estarmos seguros atrás deste muro que nos..."
 
 
 
