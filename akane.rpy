@@ -824,6 +824,8 @@ label akane:
 
                             $ renpy.movie_cutscene("video/pt1.webm")
 
+                            $ renpy.movie_cutscene("video/pt2.webm")
+
 
                             
                             

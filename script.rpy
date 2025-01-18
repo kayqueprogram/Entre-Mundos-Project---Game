@@ -286,12 +286,78 @@ label start:
 
 
                 "Ir com Toya":
-                    "Eu"
+                    "Eu realmente querto ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
+                    jump akane
+
         
         "Poderia estar melhor":
             hide book act1
             show book act1_2_2
             "'Poderia estar melhor, eu acho'"
+
+            "Ela lê minha resposta e sorri de forma compreensiva, sentando-se ao meu lado no banco. "
+
+            "Por um momento, ficamos em silêncio, apenas apreciando a tranquilidade do amanhecer."
+
+            "De repente, uma voz familiar interrompe nosso momento. "
+
+            show toya confused at right with dissolve
+
+            
+
+            "Toya aparece"
+
+            "Por que ele tinha que aparecer justo agora?"
+
+            ty "Olá? Alguém aí?"
+
+            hide akane sorr
+            show akane confused at Position(xpos=0.3, ypos=0.99) with dissolve
+
+            "Akane recua, desconcertada. Me parece que eles não se dão muito bem"
+            
+            s "Aqui vemos um homem visionário, bom dia Toya!"
+
+            "Toya recua por um instante, e logo, percebo a gafe que cometi"
+
+            s "“D-desculpa Toya, eu juro que não foi minha intenção..."
+
+            hide toya confused
+
+            show toya confused2 at right 
+
+            ty "Hahahaha"
+
+            ty "Você está meio engraçadinho hoje não?"
+
+            s "Não foi por querer, sério"
+
+            "Akane se mostra visivelmente incomodada por não fazer ideia do que está acontecendo."
+
+            "Eu meio que entendo isso, estar perdido em meio aos outros..."
+
+            ty "Tem mais alguém aqui?"
+
+            s "Sim... a Akane"
+
+            hide toya confused2
+
+            show toya confused at right
+
+            ty "Oh... entendo. Vim te chamar para tomar o café da manhã, Kazuma também está te esperando, vamos?"
+
+            menu: 
+                "Ficar com Akane":
+
+                    jump akane
+
+
+
+                "Ir com Toya":
+                    "Eu realmente querto ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
+                    jump akane
+
+            
 
 
 
