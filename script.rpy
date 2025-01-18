@@ -30,24 +30,23 @@ label start:
     play music "audio/trilhas/to_dive.wav"
 
     
-    voice "audio/narration/aud001.ogg"
+
 
     "Eu estou de volta àquela casa, a opressão familiar  está me envolvendo como uma nuvem densa. "
 
     
-    voice "audio/narration/aud002.ogg"
+    
 
     "As paredes parecem se fechar sobre mim, o ar é pesado e está difícil de respirar. "
 
-    voice "audio/narration/aud003.ogg"
-
+    
     "Meu coração acelera, eu sei muito bem o que vai acontecer."
 
-    voice "audio/narration/aud004.ogg"
+   
 
     s "I-isso não pode estar acontecendo..."
 
-    voice "audio/narration/aud004.ogg"
+    
 
     "I-isso não pode estar acontecendo..."
 
@@ -55,72 +54,70 @@ label start:
 
     play sound "audio/hard-slap-46388.mp3"
 
-    voice "audio/narration/aud005.ogg"
-
+   
     
 
     "Antes que eu pudesse reagir, senti o impacto de um tapa no rosto, o som ressoou pela sala. "
 
     scene bg pesadelo with hpunch
     
-    voice "audio/narration/aud006.ogg"
+    
 
     "Caio no chão, a dor irradia pela minha face, e lágrimas surgem em meus olhos sem que eu queira."
    
 
-    voice "audio/narration/aud007.ogg"
+  
 
     s "Por que isso está acontecendo de novo? Eu pensei que estava livre..."
 
-    voice "audio/narration/aud008.ogg"
 
     "A voz fria e desdenhosa da minha mãe ecoou da cozinha."
 
     show mae with dissolve
 
-    voice "audio/narration/aud009.ogg"
+  
 
     m "Deixe-o. Ele não vale nosso tempo."
 
-    voice "audio/narration/aud010.ogg"
+    
 
     "Tento me levantar, mas uma dor lancinante percorre pelo meu corpo. "
     hide mae with dissolve
 
-    voice "audio/narration/aud011.ogg"
+    
 
     "Olhei ao redor, desesperado, buscando uma saída...\nmas a casa parecia um labirinto sem fim, cada porta me levando de volta ao mesmo lugar."
 
-    voice "audio/narration/aud012.ogg"
+ 
 
     s "Eu... preciso sair daqui... Preciso fugir..."
 
-    voice "audio/narração/aud013.ogg"
+    
  
     "De repente, ouvi uma risada distante, suave e reconfortante. Era a voz de Toshiro, meu antigo amigo."
 
-    voice "audio/narração/aud014.ogg"
+    
 
     t "Shido, você pode superar isso. Isso não é real!!"
 
     show pai with hpunch
 
-    voice "audio/narração/aud015.ogg"
+   
 
     "A presença de Toshiro trouxe uma leve esperança, mas o som se dissipou rapidamente, substituído pelo grito furioso de meu pai."
 
-    voice "audio/narração/aud016.ogg"
+   
 
     p "Você nunca vai escapar de nós!"
 
 
     scene bg espc with hpunch
 
-    voice "audio/narração/aud017.ogg"
+    
 
     "Tento correr, mas meus pés parecem presos ao chão. Grito, clamando por ajuda, mas minha voz não faz som. "
     
-    voice "audio/narração/aud018.ogg"
+    
 
     "O desespero tomou conta, e senti uma escuridão sufocante me envolver."
 
@@ -130,17 +127,17 @@ label start:
 
     play sound "audio/despert.mp3"
 
-    voice "audio/narração/aud019.ogg"
+
 
     "No momento em que parecia que eu não conseguiria mais lutar, acordo sobressaltado, suando e ofegante. "
 
-    voice "audio/narração/aud020.ogg"
+ 
 
     "Estou de volta ao meu quarto no orfanato Kibou-en. A familiaridade do ambiente ao redor me trouxe um alívio imediato."
 
     stop sound
 
-    voice "audio/narração/aud021.ogg"
+    
 
     s "Foi apenas um sonho... Apenas um sonho..."
 
