@@ -1,4 +1,3 @@
-
 label akane:
 
     hide toya confused
