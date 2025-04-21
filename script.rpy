@@ -257,17 +257,27 @@ label start:
 
             show toya confused2 at right 
 
-            ty "Hahahaha"
+            voice "audio/narration/aud042.ogg"
 
             ty "Você está meio engraçadinho hoje não?"
 
+            voice "audio/narration/aud043.ogg"
+
             s "Não foi por querer, sério"
+
+            voice "audio/narration/aud044.ogg"
 
             "Akane se mostra visivelmente incomodada por não fazer ideia do que está acontecendo."
 
+            voice "audio/narration/aud045.ogg"
+
             "Eu meio que entendo isso, estar perdido em meio aos outros..."
 
+            voice "audio/narration/aud046.ogg"
+
             ty "Tem mais alguém aqui?"
+
+            voice "audio/narration/aud047.ogg"
 
             s "Sim... a Akane"
 
