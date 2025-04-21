@@ -119,52 +119,52 @@ label start:
 
     "No momento em que parecia que eu não conseguiria mais lutar, acordo sobressaltado, suando e ofegante. "
 
- 
+    voice "audio/narration/aud018.ogg"
 
     "Estou de volta ao meu quarto no orfanato Kibou-en. A familiaridade do ambiente ao redor me trouxe um alívio imediato."
 
     stop sound
 
-    
+    voice "audio/narration/aud019.ogg"
 
     s "Foi apenas um sonho... Apenas um sonho..."
 
-    voice "audio/narração/aud022.ogg"
+    voice "audio/narration/aud020.ogg"
 
     "Os fantasmas do meu passado ainda me assombram..."
 
     scene bg dormshido with fade
 
-    voice "audio/narração/aud023.ogg"
+    voice "audio/narration/aud021.ogg"
 
     "Com o coração ainda acelerado, me levanto devagar da cama, tentando não fazer barulho para não acordar Toya e Kazuma. "
 
     scene bg dorshido_blurred
     show relogio at truecenter with wipeup
 
-    voice "audio/narração/aud024.ogg"
+    voice "audio/narration/aud022.ogg"
 
     "Olho para o relógio no criado-mudo: 6:12 da manhã. "
 
-    voice "audio/narração/aud025.ogg"
+    voice "audio/narration/aud023.ogg"
 
     "Eu não vou conseguir dormir "
 
-    voice "audio/narração/aud026.ogg"
+    voice "audio/narration/aud024.ogg"
 
     "Vou dar uma volta pelo orfanato"
 
-    voice "audio/narração/aud027.ogg"
+    voice "audio/narration/aud025.ogg"
 
     "Preciso respirar um pouco"
 
     scene bg dorm_corr_msc with fade
 
-    voice "audio/narração/aud028.ogg"
+    voice "audio/narration/aud026.ogg"
 
     "Caminho silenciosamente pelo corredor, observando os quartos ainda escuros e silenciosos. "
 
-    voice "audio/narração/aud029.ogg"
+    voice "audio/narration/aud027.ogg"
 
     "A luz fraca da madrugada começa a infiltrar-se pelas janelas, lançando sombras compridas nas paredes. "
 
@@ -174,21 +174,19 @@ label start:
 
     play audio "audio/brisa.mp3"
 
-    voice "audio/narração/aud030.ogg"
+    voice "audio/narration/aud028.ogg"
 
     "Sinto uma brisa suave ao abrir a porta para o jardim e deixo o ar fresco aliviar a tensão que ainda estava em meu peito."
 
-    voice "audio/narração/aud031.ogg"
+
 
     "Sento-me em um banco próximo a uma árvore, observando o orfanato despertar lentamente."
 
-    voice "audio/narração/aud032.ogg"
 
     "Alguns funcionários começavam a preparar o café da manhã na cozinha e os primeiros pássaros começavam a cantar. "
 
     play sound "audio/passos.mp3"
 
-    voice "audio/narração/aud033.ogg"
 
     "Enquanto respiro fundo, sentindo o aroma das flores no jardim, ouço passos leves se aproximando."
 
@@ -198,7 +196,6 @@ label start:
 
     show book act1 with wipeup
 
-    voice "audio/narração/aud034.ogg"
     
     "Akane não consegue se comunicar usando a fala. Então quando encontra alguém que não sabe a língua de sinais, ela usa  este caderno"
 
