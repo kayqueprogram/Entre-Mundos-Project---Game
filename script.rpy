@@ -208,33 +208,46 @@ label start:
         "Estou bem":
             hide book act1
             show book act1_2
+
+            voice "audio/narration/aud033.ogg"
+
+
             "'Bom dia, Akane. Estou... bem. Apenas acordei cedo demais.'" 
             hide book act1_2 with dissolve
             hide akane cnvs
             show akane sorr
 
+            voice "audio/narration/aud034.ogg"
+            
             "Ela lê minha resposta e sorri de forma compreensiva, sentando-se ao meu lado no banco. "
 
+            voice "audio/narration/aud035.ogg"
+
             "Por um momento, ficamos em silêncio, apenas apreciando a tranquilidade do amanhecer."
+
+            voice "audio/narration/aud036.ogg"
 
             "De repente, uma voz familiar interrompe nosso momento. "
 
             show toya confused at right with dissolve
 
-            
-
-            "Toya aparece"
-
-            "Por que ele tinha que aparecer justo agora?"
-
+            voice "audio/narration/aud037.ogg"
+            "Por que Toya tinha que aparecer justo agora?"
+            voice "audio/narration/aud038.ogg"
             ty "Olá? Alguém aí?"
 
             hide akane sorr
             show akane confused at Position(xpos=0.3, ypos=0.99) with dissolve
 
+            voice "audio/narration/aud039.ogg"
+
             "Akane recua, desconcertada. Me parece que eles não se dão muito bem"
-            
+
+            voice "audio/narration/aud040.ogg"
+
             s "Aqui vemos um homem visionário, bom dia Toya!"
+
+            voice "audio/narration/aud041.ogg"
 
             "Toya recua por um instante, e logo, percebo a gafe que cometi"
 
