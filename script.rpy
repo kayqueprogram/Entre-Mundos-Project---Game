@@ -229,6 +229,8 @@ label start:
 
             "De repente, uma voz familiar interrompe nosso momento. "
 
+            hide book act1_2_2
+
             show toya confused at right with dissolve
 
             voice "audio/narration/aud037.ogg"
@@ -285,6 +287,8 @@ label start:
 
             show toya confused at right
 
+            voice "audio/narration/aud048.ogg"
+
             ty "Oh... entendo. Vim te chamar para tomar o café da manhã, Kazuma também está te esperando, vamos?"
             
             menu: 
@@ -295,37 +299,51 @@ label start:
 
 
                 "Ir com Toya":
-                    "Eu realmente querto ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
+                    voice "audio/narration/aud049.ogg"
+                    "Eu realmente queria ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
                     jump akane
 
         
         "Poderia estar melhor":
             hide book act1
             show book act1_2_2
+
+            voice "audio/narration/aud050.ogg"
             "'Poderia estar melhor, eu acho'"
+
+            voice "audio/narration/aud051.ogg"
 
             "Ela lê minha resposta e sorri de forma compreensiva, sentando-se ao meu lado no banco. "
 
+            voice "audio/narration/aud052.ogg"
+
             "Por um momento, ficamos em silêncio, apenas apreciando a tranquilidade do amanhecer."
+
+            voice "audio/narration/aud036.ogg"
 
             "De repente, uma voz familiar interrompe nosso momento. "
 
+            hide book act1_2_2
+
             show toya confused at right with dissolve
 
-            
-
-            "Toya aparece"
-
-            "Por que ele tinha que aparecer justo agora?"
-
+            voice "audio/narration/aud037.ogg"
+            "Por que Toya tinha que aparecer justo agora?"
+            voice "audio/narration/aud038.ogg"
             ty "Olá? Alguém aí?"
 
             hide akane sorr
             show akane confused at Position(xpos=0.3, ypos=0.99) with dissolve
 
+            voice "audio/narration/aud039.ogg"
+
             "Akane recua, desconcertada. Me parece que eles não se dão muito bem"
-            
+
+            voice "audio/narration/aud040.ogg"
+
             s "Aqui vemos um homem visionário, bom dia Toya!"
+
+            voice "audio/narration/aud041.ogg"
 
             "Toya recua por um instante, e logo, percebo a gafe que cometi"
 
@@ -335,17 +353,27 @@ label start:
 
             show toya confused2 at right 
 
-            ty "Hahahaha"
+            voice "audio/narration/aud042.ogg"
 
             ty "Você está meio engraçadinho hoje não?"
 
+            voice "audio/narration/aud043.ogg"
+
             s "Não foi por querer, sério"
+
+            voice "audio/narration/aud044.ogg"
 
             "Akane se mostra visivelmente incomodada por não fazer ideia do que está acontecendo."
 
+            voice "audio/narration/aud045.ogg"
+
             "Eu meio que entendo isso, estar perdido em meio aos outros..."
 
+            voice "audio/narration/aud046.ogg"
+
             ty "Tem mais alguém aqui?"
+
+            voice "audio/narration/aud047.ogg"
 
             s "Sim... a Akane"
 
@@ -353,19 +381,19 @@ label start:
 
             show toya confused at right
 
-            ty "Oh... entendo. Vim te chamar para tomar o café da manhã, Kazuma também está te esperando, vamos?"
+            voice "audio/narration/aud048.ogg"
 
+            ty "Oh... entendo. Vim te chamar para tomar o café da manhã, Kazuma também está te esperando, vamos?"
+            
             menu: 
                 "Ficar com Akane":
 
                     jump akane
 
-
-
                 "Ir com Toya":
-                    "Eu realmente querto ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
+                    voice "audio/narration/aud049.ogg"
+                    "Eu realmente queria ir com Toya, mas acho que não terei outra oportunidade de conhecer Akane melhor"
                     jump akane
-
             
 
 
