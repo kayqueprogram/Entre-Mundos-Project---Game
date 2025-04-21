@@ -3,24 +3,37 @@ label akane:
     hide toya confused
     show toya interested at right
 
+    voice "audio/narration/aud053.ogg"
+
     ty "Está bem. Se você acha melhor assim..."
+
+    voice "audio/narration/aud054.ogg"
 
     s "Te vejo depois, Toya"
 
+    voice "audio/narration/aud055.ogg"
+
     "Ele não diz mais nada, apenas vira as costas e sai andando. Por algum motivo, mostrava uma expressão meio amargurada."
+
+    voice "audio/narration/aud056.ogg"
 
     "Mas deve ser só impressão, coisa da minha cabeça."
 
     hide toya interested with dissolve
 
-    "Nossa mente prega peças em nós ás vezes..."
+    voice "audio/narration/aud057.ogg"
 
-    "Certo?"
+    "Nossa mente prega peças em nós ás vezes... Certo?"
+
 
     hide akane confused with dissolve
     show akane rage with dissolve
 
+    voice "audio/narration/aud058.ogg"
+
     "Akane me chama a atenção"
+
+    voice "audio/narration/aud059.ogg"
 
     "Sua expressão interrogativa já me diz o que ela quer saber, sem que eu precise olhar o caderno que ela aponta em minha direção."
 
@@ -29,39 +42,55 @@ label akane:
                     
     show book act1_3 with wipeup
 
-    "'Ele veio me chamar para tomar o café da manhã com eles, mas eu prefiro continnossa conversa'"
+    voice "audio/narration/aud060.ogg"
+
+    "'Ele veio me chamar para tomar o café da manhã com eles, mas eu prefiro continuar nossa conversa'"
 
     hide akane cnvs
     show akane sorr
 
     hide book act1_3 with dissolve
 
+    voice "audio/narration/aud061.ogg"
+
     "Espero Akane terminar de ler. Vejo um pequeno brilho de satisfação em seus olhos."
 
     show book act1_4 with wipeup
+
+    voice "audio/narration/aud062.ogg"
 
     "'Bela escolha a sua. Mas eu acho que você deveria ir tomar café, as aulas começam daqui a pouco'"
 
     hide book act1_4
 
     show book act1
+
+    voice "audio/narration/aud063.ogg"
     "Quando começam as aulas? "
 
     hide book act1_5
 
     show book act1_6
 
+    voice "audio/narration/aud064.ogg"
+
     "'Dentro de 5 minutos, te vejo na aula, Tchau! '"
 
     hide book act1_6 with dissolve
     hide akane cnvs with dissolve
 
+    voice "audio/narration/aud065.ogg"
+
     "Mal termino de ler, Akane toma o caderno e sai correndo em direção ao refeitório..."
+
+    voice "audio/narration/aud066.ogg"
 
     "Devo admitir que não esperava essa reação."
 
     menu: 
         "Ela tem um olhar diferente":
+
+            voice "audio/narration/aud067.ogg"
             "Aquele olhar... de alguma forma... estou hipnotizado"
 
 
