@@ -43,7 +43,7 @@ label start:
 
     voice "audio/narration/aud005.ogg"  
 
-    "I-isso não pode estar acontecendo..."
+    "Antes que eu pudesse reagir,senti o impacto de um tapa no rosto. O som ressoou pela sala"
 
     show pai with hpunch
 
@@ -52,13 +52,13 @@ label start:
    
     voice "audio/narration/aud006.ogg"
 
-    "Antes que eu pudesse reagir, senti o impacto de um tapa no rosto, o som ressoou pela sala. "
+    "Caio no chão. A dor irradia pela minha face e lágrimas surgem em meus olhos sem que eu queira. "
 
     scene bg pesadelo with hpunch
     
     voice "audio/narration/aud007.ogg"   
 
-    "Caio no chão, a dor irradia pela minha face, e lágrimas surgem em meus olhos sem que eu queira."
+    "Por quê isso está acontecendo de novo? Eu pensei que estava livre."
     
     voice "audio/narration/aud008.ogg"
 
@@ -85,31 +85,27 @@ label start:
     s "Eu... preciso sair daqui... Preciso fugir..."
 
     
- 
-    "De repente, ouvi uma risada distante, suave e reconfortante. Era a voz de Toshiro, meu antigo amigo."
 
-    
-
-    t "Shido, você pode superar isso. Isso não é real!!"
 
     show pai with hpunch
 
    
+    voice "audio/narration/aud013.ogg"
 
-    "A presença de Toshiro trouxe uma leve esperança, mas o som se dissipou rapidamente, substituído pelo grito furioso de meu pai."
+    "Ouço o grito furioso de meu pai."
 
-   
+    voice "audio/narration/aud014.ogg"
 
     p "Você nunca vai escapar de nós!"
 
 
     scene bg espc with hpunch
 
-    
+    voice "audio/narration/aud015.ogg"
 
     "Tento correr, mas meus pés parecem presos ao chão. Grito, clamando por ajuda, mas minha voz não faz som. "
     
-    
+    voice "audio/narration/aud016.ogg"
 
     "O desespero tomou conta, e senti uma escuridão sufocante me envolver."
 
@@ -119,7 +115,7 @@ label start:
 
     play sound "audio/despert.mp3"
 
-
+    voice "audio/narration/aud017.ogg"
 
     "No momento em que parecia que eu não conseguiria mais lutar, acordo sobressaltado, suando e ofegante. "
 
