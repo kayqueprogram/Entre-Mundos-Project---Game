@@ -178,16 +178,18 @@ label start:
 
     "Sinto uma brisa suave ao abrir a porta para o jardim e deixo o ar fresco aliviar a tensão que ainda estava em meu peito."
 
-
+    voice "audio/narration/aud029.ogg"
 
     "Sento-me em um banco próximo a uma árvore, observando o orfanato despertar lentamente."
 
+    voice "audio/narration/aud030.ogg"
 
     "Alguns funcionários começavam a preparar o café da manhã na cozinha e os primeiros pássaros começavam a cantar. "
 
     play sound "audio/passos.mp3"
 
-
+    voice "audio/narration/aud031.ogg"
+    
     "Enquanto respiro fundo, sentindo o aroma das flores no jardim, ouço passos leves se aproximando."
 
     stop sound
@@ -195,6 +197,8 @@ label start:
     show akane cnvs with dissolve
 
     show book act1 with wipeup
+
+    voice "audio/narration/aud032.ogg"
 
     
     "Akane não consegue se comunicar usando a fala. Então quando encontra alguém que não sabe a língua de sinais, ela usa  este caderno"
