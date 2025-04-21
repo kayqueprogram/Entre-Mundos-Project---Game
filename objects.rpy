@@ -1,0 +1,7 @@
+image book act1 = "images/book/CADERNO1.png"
+image book act1_2 = "images/book/CADERNO2.png"
+image book act1_3 = "images/book/CADERNO1_2.png"
+image book act1_4 = "images/book/CADERNO1_3.png"
+image book act1_5 = "images/book/CADERNO1_4.png"
+image book act1_6 = "images/book/CADERNO1_5.png"
+image book act1_2_2 = "images/book/CADERNO2_2.png"
