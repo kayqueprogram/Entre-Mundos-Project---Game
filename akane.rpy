@@ -95,10 +95,10 @@ label akane:
 
 
         "Seu sorriso...":
+            voice "audio/narration/aud068.ogg"
             "É um sorriso tímido, alegre..., mas me sinto tão tenso..."
 
-            "Sinto como seu eu não pudesse mover um único músculo, mesmo se tentasse"
-
+            voice "audio/narration/aud069.ogg"
             "Acho que vou para o meu quarto, até dar a hora..."
                     
 
@@ -106,7 +106,11 @@ label akane:
 
             play sound "audio/Alarme da escola.ogg"
 
+            voice "audio/narration/aud070.ogg"
+
             "Estou atrasado, ao que parece, todos já entraram em suas salas"
+
+            voice "audio/narration/aud071.ogg"
 
             "Preciso encontrar logo a minha..."
 
@@ -116,69 +120,108 @@ label akane:
 
             s "Ugh!"
 
+            voice "audio/narration/aud072.ogg"
+
             s "D-desculpa! Não foi minha intenç-"
+
+            voice "audio/narration/aud073.ogg"
 
             ds "É você, Mizushima?"
 
+            voice "audio/narration/aud074.ogg"
+
             s "Ah, sim, sou eu"
 
+            voice "audio/narration/aud075.ogg"
+
             ds "Ótimo, eu estava te procurando, vamos! "
+
+            voice "audio/narration/aud076.ogg"
 
             s "Mas quem é voc-"
 
             hide irina normal
             show irina serious
 
+
+            voice "audio/narration/aud077.ogg"
+
             ds "Ah, verdade ainda não me apresentei"
 
+            voice "audio/narration/aud078.ogg"
+
             ir "Meu nome é Irina, sou a professora da classe 3-A, no caso, a {b}sua classe senhor{/b}. "
+
+            voice "audio/narration/aud079.ogg"
 
             "Sinto uma ponta de ironia em sua fala, como eu saberia que essa é minha classe? "
 
             hide irina serious
             show irina serious2
 
+            voice "audio/narration/aud080.ogg"
+
             s "Ah, sim, desculpe sensei. Ninguém soube me informar onde era minha sala"
+
+            voice "audio/narration/aud081.ogg"
 
             s "E ninguém da coordenação me falou nada, desde que cheguei aqui"
 
             hide irina serious2
             show irina normal
 
+            voice "audio/narration/aud082.ogg"
+
             irs "Esse orfanato... está cada vez pior... nesse caso, seja bem-vindo! "
+
+            voice "audio/narration/aud083.ogg"
 
             irs "Você quer se apresentar para a classe? "
 
             menu: 
                 "Sim, Claro!":
 
+                    voice "audio/narration/aud084.ogg"
+
                     s "Quer dizer... é o normal a se fazer, não?"
 
                     hide irina normal
                     show irina serious
+
+                    voice "audio/narration/aud085.ogg"
                            
                     irs"Deveria ser, mas nem todo mundo gosta de estar exposto aos olhares alheios"
 
                     hide irina serious
                     show irina serious2
 
+                    voice "audio/narration/aud086.ogg"
+
                     s "Eu sou uma dessas pessoas, mas..."
 
-
+                    voice "audio/narration/aud087.ogg"
                     "Eu devo criar minha primeira impressão, e ela deve ser boa o suficiente, para que eu consiga criar novas conexões"
 
                     hide irina serious2
                     show irina normal
 
+                    voice "audio/narration/aud088.ogg"
+
                     irs "Vamos ver então"
 
                     scene bg escadas_escola with dissolve
+
+                    voice "audio/narration/aud089.ogg"
 
                     "Meu coração bate forte enquanto sigo a professora pelo lance de escadas."
 
                     scene bg corredor_escola2 with dissolve
 
+                    voice "audio/narration/aud090.ogg"
+
                     "A primeira porta do corredor do terceiro andar possui uma marcação: “3-A”"
+
+                    voice "audio/narration/aud091.ogg"
 
                     "Irina sensei abre a porta e entra"
 
@@ -186,23 +229,37 @@ label akane:
 
                     show irina normal with dissolve
 
+                    voice "audio/narration/aud092.ogg"
+
                     irs "Bom dia a todos! Consegui encontrar a ovelhinha perdida! "
 
                     play sound "audio/people_laugh.ogg"
+
+                    voice "audio/narration/aud093.ogg"
 
                     "Os alunos riem do trocadilho de Irina, enquanto estou parado na porta, hesitando na hora H."
 
                     stop sound
 
+                    voice "audio/narration/aud094.ogg"
+
                     "Sinto como se fosse um grande passo. Um momento decisivo de minha vida."
 
+                    voice "audio/narration/aud095.ogg"
+
                     "Se for parar para pensar, é mesmo"
+
+                    voice "audio/narration/aud096.ogg"
 
                     "Se eu falhar na apresentação, provavelmente ninguém vai querer se aproximar de mim."
 
                     hide irina normal with dissolve
 
+                    voice "audio/narration/aud097.ogg"
+
                     "Entro na sala de cabeça baixa, para não ter que dar de cara com olhares curiosos."
+
+                    voice "audio/narration/aud098.ogg"
                            
                     "É uma sala espaçosa, mas apesar disso, as mesas são grandes e há pouco espaço entre elas."
 
