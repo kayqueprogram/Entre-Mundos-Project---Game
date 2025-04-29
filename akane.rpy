@@ -263,11 +263,19 @@ label akane:
                            
                     "É uma sala espaçosa, mas apesar disso, as mesas são grandes e há pouco espaço entre elas."
 
+                    voice "audio/narration/aud099.ogg"
+
                     "As mesas são de madeira, com um espaço abaixo, para guardar os materiais, é simples, mas eficiente."
+
+                    voice "audio/narration/aud100.ogg"
 
                     "Paro em frente à turma, sentindo um leve receio, e começo a observar cada um deles."
 
+                    voice "audio/narration/aud101.ogg"
+
                     "Foi um choque, quando vi que uma das meninas não possuía um dos olhos."
+
+                    voice "audio/narration/aud102.ogg"
 
                     "Eu já deveria ter me acostumado, afinal, convivo com Kazuma, que já não tem uma das pernas, e Toya, que é cego desde seu nascimento."
 
