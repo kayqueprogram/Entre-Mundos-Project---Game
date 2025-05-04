@@ -278,14 +278,22 @@ label akane:
                     voice "audio/narration/aud102.ogg"
 
                     "Eu já deveria ter me acostumado, afinal, convivo com Kazuma, que já não tem uma das pernas, e Toya, que é cego desde seu nascimento."
+                    
+                    voice "audio/narration/aud103.ogg"
 
                     "Eu não sei se “se acostumar” é a coisa certa a se fazer"
 
+                    voice "audio/narration/aud104.ogg"
+
                     "O certo não seria “aprender a lidar? ”"
+
+                    voice "audio/narration/aud105.ogg"
 
                     "Percebo um movimento... seus cabelos negros se movimentando... é alguém familiar para mim..."
 
                     show akane sorr at left, with dissolve
+
+                    voice "audio/narration/aud106.ogg"
 
                     "É Akane! Que surpresa estarmos na mesma turma!"
 
