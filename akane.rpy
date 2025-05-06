@@ -299,29 +299,52 @@ label akane:
 
                     hide akane sorr with dissolve
 
+                    voice "audio/narration/aud107.ogg"
+
                     irs "Seu nome é Shido Mizushima"
+
+                    voice "audio/narration/aud108.ogg"
+
 
                     s "Prazer em conhece-los pessoal! Espero me dar bem com todos vocês! "
 
+                    voice "audio/narration/aud109.ogg"
+
                     "E agora? ... "
+
+                    voice "audio/narration/aud110.ogg"
 
                     "Simples foi dizer que eu me apresentaria"
 
+                    voice "audio/narration/aud111.ogg"
+
                     s "Tenho alguns hobbies como leitura e astronomia..."
+
+                    voice "audio/narration/aud112.ogg"
 
                     "Não foi a apresentação que eu queria, devo dizer algo mais impactante não?"
 
+                    voice "audio/narration/aud113.ogg"
+
                     "Termino por não dizer nada e a professora retoma a palavra."
+
+                    voice "audio/narration/aud114.ogg"
 
                     "Vejo meus novos colegas cochichando entre si... bem, poderia ter sido pior."
 
                     show irina serious with dissolve
 
+                    voice "audio/narration/aud115.ogg"
+
                     "A professora se vira para mim, um tanto desinteressada"
+
+                    voice "audio/narration/aud116.ogg"
 
                     irs "Não temos muitos lugares livres, mas temos o suficiente para que possa escolher onde vai se sentar "
 
                     hide irina serious with dissolve
+
+                    voice "audio/narration/aud117.ogg"
 
                     "Irina-sensei ri de sua fala irônica e eu me volto para os únicos lugares disponíveis na sala"
                     
