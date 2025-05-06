@@ -350,38 +350,60 @@ label akane:
                     
                     show akane confused with dissolve
 
+                    voice "audio/narration/aud118.ogg"
+
                     "Um é próximo de Akane."
 
                     hide akane confused with dissolve
 
                     show yuno normal with dissolve
+
+                    voice "audio/narration/aud119.ogg"
                     
 
                     "E o outro, é próximo de uma linda menina de cabelo rosa, que parecia estar interagindo com Akane."
 
                     hide yuno normal
 
+                    voice "audio/narration/aud120.ogg"
+
                     "Decido me sentar ao lado de Akane, afinal, eu já a conheço."
 
                     show akane sorr with dissolve
+
+                    voice "audio/narration/aud121.ogg"
 
                     "Akane me cumprimenta com um sorriso... e que sorriso!"
 
                     hide akane sorr with dissolve
 
+                    voice "audio/narration/aud122.ogg"
+
                     "Logo após, ela se volta para a menina ao seu lado e começam a se comunicar usando a linguagem de sinais."
 
                     show yuno sorr with dissolve
 
+                    voice "audio/narration/aud123.ogg"
+
                     y "É um prazer te conhecer Mizu! "
+
+                    voice "audio/narration/aud124.ogg"
 
                     y "Parece que você já conheceu minha amiga, Akane, ela é surda, então na maior parte do tempo, eu traduzo as coisas para ela"
 
+
+                    ## 125
                     "Mizu? ..."
+
+                    ## 126
 
                     "Que tipo de pessoa dá apelido a alguém que acabou de conhecer?"
 
+                    ## 125
+
                     s "Mizu? "
+
+                    ## 127
 
                     "Nem sei porque disse isso em voz alta, não possuo boas lembranças com este apelido."
 
@@ -400,6 +422,8 @@ label akane:
                     y "Queremos que se sinta bem-vindo entre nós!"
 
                     ak "(...)"
+
+                    ## 133
 
                     y "Não repara na personalidade da Irina-Sensei, ela pode ter um gênio difícil ás vezes"
 
