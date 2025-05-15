@@ -467,19 +467,31 @@ label akane:
 
                     hide yuno sorr with dissolve
 
+                    voice "audio/narration/aud141.ogg"
+
                     "Não consigo evitar um sorriso. Parece que fiz alguns amigos."
+
+                    voice "audio/narration/aud142.ogg"
 
                     "Irina-sensei passa ao meu lado e nos dirige um sorriso um tanto pretensioso"
 
                     show irina normal with dissolve
 
+                    voice "audio/narration/aud143.ogg"
+
                     irs "Parece que você já se enturmou, não é mesmo? "
 
                     show yuno normal at left with dissolve 
 
+                    voice "audio/narration/aud144.ogg"
+
                     y "A Akane disse que vai leva-lo para conhecer a escola, assim que a aula terminar. "
 
+                    voice "audio/narration/aud145.ogg"
+
                     irs "Aproveite e mostre os clubes para ele. Não quero ver nenhum aluno meu em ociosidade"
+
+                    voice "audio/narration/aud146.ogg"
 
                     irs "Agora, vamos seguir com a aula pessoal! Silêncio. "
 
@@ -489,12 +501,16 @@ label akane:
 
                     ak "(...)"
 
+                    voice "audio/narration/aud147.ogg"
+
                     y "Você vai gostar daqui, embora seja um orfanato, não é um lugar ruim."
 
                     hide akane cnvs with dissolve
                     hide yuno normal with dissolve
 
                     show irina normal with dissolve
+
+                    voice "audio/narration/aud148.ogg"
 
                     irs "Pessoaaal... a educação foi feita para ser usada, e não para ser guardada em suas mochilas, Silêncio! "
 
