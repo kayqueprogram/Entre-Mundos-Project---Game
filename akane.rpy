@@ -516,9 +516,13 @@ label akane:
 
                     hide irina normal with dissolve
 
+                    voice "audio/narration/aud149.ogg"
+
                     "Sinto que situações assim são comuns por aqui. Devo me acostumar a isso também."
 
                     show irina normal with dissolve
+
+                    voice "audio/narration/aud150.ogg"
 
                     "Voltando ao tema, alguém poderia me dizer qual a importância de Beatrice para a obra ‘Do Inferno ao Paraíso’? "
 
