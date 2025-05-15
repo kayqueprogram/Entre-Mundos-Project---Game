@@ -439,17 +439,29 @@ label akane:
 
                     y "Não repara na personalidade da Irina-Sensei, ela pode ter um gênio difícil ás vezes"
 
+                    voice "audio/narration/aud135.ogg"
+
                     "Que confusão"
+
+                    voice "audio/narration/aud136.ogg"
 
                     "Não dá para saber se é Akane quem está falando ou se é Yuno"
 
+                    voice "audio/narration/aud137.ogg"
+
                     "Ou se Akane completa o raciocínio de Yuno, ou vice-versa"
+
+                    voice "audio/narration/aud138.ogg"
 
                     y "Akane quer que você saiba que ela é a representante de classe, e que se precisar de qualquer coisa, pode vir até ela. "
 
                     ak "(...)"
 
+                    voice "audio/narration/aud139.ogg"
+
                     y "Podemos dar uma volta pela escola, caso não a tenha conhecido ainda. "
+
+                    voice "audio/narration/aud140.ogg"
 
                     s "Bem... é meu primeiro dia.... e eu aceitaria sim."
 
