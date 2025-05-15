@@ -391,39 +391,51 @@ label akane:
 
                     y "Parece que você já conheceu minha amiga, Akane, ela é surda, então na maior parte do tempo, eu traduzo as coisas para ela"
 
-
-                    ## 125
+                    voice "audio/narration/aud125.ogg"
+                    
                     "Mizu? ..."
 
-                    ## 126
+                    voice "audio/narration/aud126.ogg"
 
                     "Que tipo de pessoa dá apelido a alguém que acabou de conhecer?"
-
-                    ## 125
+                    voice "audio/narration/aud125.ogg"
+                    
 
                     s "Mizu? "
 
-                    ## 127
+                    voice "audio/narration/aud127.ogg"
 
                     "Nem sei porque disse isso em voz alta, não possuo boas lembranças com este apelido."
 
+                    voice "audio/narration/aud128.ogg"
+
                     y "Combina, não é? "
+
+                    voice "audio/narration/aud129.ogg"
 
                     s "Se você diz"
 
+                    voice "audio/narration/aud130.ogg"
+
                     y "Você tem bom gosto Akane"
 
+                    voice "audio/narration/aud131.ogg"
+
                     s "Ela entendeu isso? "
+
+                    voice "audio/narration/aud132.ogg"
 
                     y "Ela domina a leitura labial até certo ponto, e sim, ela conseguiu entender"
 
                     ak `(...)`
 
+                    voice "audio/narration/aud133.ogg"
+
                     y "Queremos que se sinta bem-vindo entre nós!"
 
                     ak "(...)"
 
-                    ## 133
+                    voice "audio/narration/aud134.ogg"
 
                     y "Não repara na personalidade da Irina-Sensei, ela pode ter um gênio difícil ás vezes"
 
