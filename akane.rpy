@@ -88,11 +88,6 @@ label akane:
     "Devo admitir que não esperava essa reação."
 
     menu: 
-        "Ela tem um olhar diferente":
-
-            voice "audio/narration/aud067.ogg"
-            "Aquele olhar... de alguma forma... estou hipnotizado"
-
 
         "Seu sorriso...":
             voice "audio/narration/aud068.ogg"
@@ -970,13 +965,13 @@ label akane:
                             "À medida que nos dirigimos à biblioteca, sinto que cada momento que passo com elas é uma oportunidade de aprender mais sobre mim mesmo e sobre o que significa amar."
 
                             
-                            scene biblioteca with dissolve
+                            scene bg biblioteca with dissolve
                             
                             "À biblioteca está silenciosa, exceto pelo som suave das páginas virando. A exposição de arte é uma coleção de obras de artistas locais, cheias de cor e emoção."
 
                             
                             s "Enquanto caminhamos pela exposição, noto a expressão de encantamento no rosto de Akane. Sua paixão pela arte é contagiante, e eu me pego admirando não apenas as obras, mas também a maneira como ela as observa."
-                            
+                            show yuno normal with dissolve
                             y "Akane diz que esta pintura é a favorita dela. Ela gosta da forma como as cores se misturam e criam uma sensação de movimento."
                             
                             s "É realmente incrível. Acho que entendo por que ela gosta tanto."
@@ -992,7 +987,7 @@ label akane:
                             s "Talvez essa seja a beleza do amor. Não importa como você o expressa, contanto que seja genuíno."
 
                             
-                            scene exterior_por_do_sol
+                            scene bg jardim_orfanato
                             
                             "O sol está se pondo, pintando o céu com tons de laranja e rosa. Shido, Akane e Yuno estão sentados em um banco, admirando a vista."
 
@@ -1001,8 +996,12 @@ label akane:
                             juntos, sei que vou descobrir mais sobre o que isso realmente significa."
                             
                             s "Obrigado, Akane, Yuno. Por tudo. Eu sou realmente grato por ter vocês na minha vida."
+
+                            show yuno normal with dissolve
                             
                             y "Estamos sempre aqui, Shido. Somos amigos, afinal de contas."
+
+                            show akane sorr at left with dissolve
                             
                             ak "..."
                             
